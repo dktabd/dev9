@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://moviesdatabase.p.rapidapi.com/titles/series/%7BseriesId%7D",
+    "apiUrl" : "http://blog.iamakintech.com/api/,
 
 	"pushUpdate" : "off",
 
